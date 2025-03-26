@@ -45,6 +45,7 @@ values
 ('SS3','Aston Martin Vanquish S','Supercar',30000),
 ('SS4','Lamborghini Huracan STO','Supercar',30000),
 ('SS5','Jaguar F-Type','Supercar',30000),
+('SS6','Lamborghini Revuelto','Supercar',40000),
 ('OF1','BOWLER Bulldog','Offroad',25000),
 ('OF2','BOWLER CSP575','Offroad',24000),
 ('OF3','Mammoth TRX 1000','Offroad',30000),
