@@ -69,7 +69,7 @@ profile varchar(10));'''
     except:
         pass
     qry2='''insert into users
-values('admin','admin1@gmail.com','admin@123',NULL,NULL,'admin')'''
+values('admin','admin2@gmail.com','admin@234',NULL,NULL,'admin')'''
     try:
         cur.execute(qry2)
     except:
